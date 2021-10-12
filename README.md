@@ -3,4 +3,4 @@
 
 Its a snake
 <br/>
-<a href="https://rubygamerx600.github.io/snake.game">Play the game</a>
+hosted on <a href="http://localhost:8000">http://localhost:8000</a>
